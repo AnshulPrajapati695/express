@@ -1,5 +1,6 @@
 5.1.0 / 2025-03-31
 ========================
+Anshul
 
 * Add support for `Uint8Array` in `res.send()`
 * Add support for ETag option in `res.sendFile()`
